@@ -1,0 +1,19 @@
+{
+  "name": "task_0",
+  "version": "1.0.0",
+  "description": "this is alx project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abenezer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbTSXO/alx-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbTSXO/alx-react/issues"
+  },
+  "homepage": "https://github.com/AbTSXO/alx-react#readme"
+}
