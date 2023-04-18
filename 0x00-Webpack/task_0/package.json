@@ -4,16 +4,17 @@
   "description": "this is alx project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
   },
-  "author": "Abenezer",
+  "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AbTSXO/alx-react.git"
+  "devDependencies": {
+    "webpack": "^5.79.0",
+    "webpack-cli": "^5.0.1"
   },
-  "bugs": {
-    "url": "https://github.com/AbTSXO/alx-react/issues"
-  },
-  "homepage": "https://github.com/AbTSXO/alx-react#readme"
+  "dependencies": {
+    "jquery": "^3.6.4"
+  }
 }
